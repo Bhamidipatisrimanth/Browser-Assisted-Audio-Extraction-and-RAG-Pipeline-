@@ -1,0 +1,9 @@
+yt-dlp
+playwright
+faster-whisper
+torch
+sentence-transformers
+transformers
+accelerate
+faiss-cpu
+huggingface_hub
